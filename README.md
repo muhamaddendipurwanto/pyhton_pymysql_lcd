@@ -18,6 +18,8 @@ Aplikasi Visual Studio Code dan Arduino IDE (https://downloads.arduino.cc/arduin
 atau https://www.arduino.cc/en/software
 <br>
 
+Mendownload Aplikasi XAMPP
+
 <br>
 <h1>Skema Arduino dan LCD I2C</h1><br>
 
