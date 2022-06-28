@@ -17,3 +17,9 @@ Arduino Uno, LCD I2C, Kabel Jumper
 Aplikasi Visual Studio Code dan Arduino IDE (https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.0-rc8_Windows_64bit.exe?_gl=1*gh969q*_ga*Nzg4MzM3NjcyLjE2NTYzMzY5Njg.*_ga_NEXN8H46L5*MTY1NjM3OTEwMy4zLjEuMTY1NjM3OTE2OC42MA..)
 atau https://www.arduino.cc/en/software
 <br>
+
+<br>
+<h1>Skema Arduino dan LCD I2C</h1><br>
+
+
+![fritzing-sketch-for-lcd1602-and-arduino_VNXIWTehlV](https://user-images.githubusercontent.com/73510776/176066748-20ddd6c8-9ff3-4388-8f64-516a5463cfd7.jpg)
